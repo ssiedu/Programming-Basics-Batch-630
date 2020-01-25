@@ -1,6 +1,9 @@
 
 public class ForEachTwo {
-
+    /**
+     * this method is 
+     * for adding array elements
+     */
     public static void sum(int ar[]){
         int sum=0;
         for(int num:ar){
